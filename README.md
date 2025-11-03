@@ -113,9 +113,6 @@ Assistant: Sure! Why don't skeletons fight each other? They don't have the guts.
 
 We welcome contributions to this project! If you have any suggestions, bug fixes, or improvements, feel free to open an issue or create a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
